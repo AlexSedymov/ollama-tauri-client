@@ -18,7 +18,6 @@ To run in development mode
 yarn tauri dev
 ```
 
-
 To build from source
 
 ```bash

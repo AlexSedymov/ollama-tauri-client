@@ -2,7 +2,6 @@ use std::collections::HashMap;
 use serde::{Serialize, Deserialize};
 use tauri::{Window};
 
-
 #[derive(Serialize, Deserialize)]
 #[derive(Debug)]
 struct Json {
